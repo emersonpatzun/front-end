@@ -1,0 +1,45 @@
+#components-layout-demo-side .logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+  }
+  
+  .site-layout .site-layout-background {
+    background-color: #E7E3D8;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .logoo {
+    float: none;
+    height: 40px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+  }
+  
+  .logo {
+    display: block;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-bottom: auto;
+    margin-right: auto;
+    overflow: hidden;
+    font-size: 40px;
+  }
+
+  .icon {
+    margin-right: auto;
+    margin-top: 4px;
+    margin-left: 8px;
+    margin-bottom: auto;
+  }
+
+  #Menu {
+    background-color: #5c5546;
+  }
+
+  #Sider {
+    background-color: #5c5546;
+  }

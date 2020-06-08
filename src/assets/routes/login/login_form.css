@@ -1,0 +1,42 @@
+.login-form{
+    margin-top: 70px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    max-width: 400px !important;
+}
+
+.Cardd {
+    font-size: 250%;
+    background-color: #E7E3D8 !important;
+    margin-top: 300px !important;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+}
+
+#logo {
+    display: block;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    background-image: url("/Users/esipac/inventario_vivo/inventario/public/cd.png");
+    background-repeat: no-repeat;
+    overflow: hidden;
+    font-size: 50px;
+}
+
+.Header {
+    background-color: #5c5546 ;
+    height: 100px;
+    overflow: hidden;
+}
+
+/* .login-form {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 400px;
+}
+
+ */
